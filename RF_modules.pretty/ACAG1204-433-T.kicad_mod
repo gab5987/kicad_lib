@@ -1,0 +1,147 @@
+(footprint "ACAG1204-433-T"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.3048 -6.707 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1b458fdd-8115-499d-ad81-969a9539e739")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "ACAG1204-433-T"
+		(at 0.3048 -5.207 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5d62cdf7-bfc5-4f6e-a4a5-67af151ff026")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0.9688 -7.8738 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ea0002f0-9274-40b1-936d-168d220da8b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0.9688 -7.8738 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d98e3728-c12d-4f71-b298-c3c8967ec96a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0.9688 -7.8738 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "36ad862a-718e-4011-add8-e50ca3001099")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6.2012 -2.4384)
+		(end -6.2012 1.8116)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c7034941-1d88-47f1-a08f-262d7dcb3f1e")
+	)
+	(fp_line
+		(start -6.2012 1.8116)
+		(end 6.0488 1.8116)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "525f41ad-caac-4a74-ad98-0729e40f530e")
+	)
+	(fp_line
+		(start 6.0488 -2.4384)
+		(end -6.2012 -2.4384)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e921d6e0-797e-4877-a1b1-e1420b890758")
+	)
+	(fp_line
+		(start 6.0488 1.8116)
+		(end 6.0488 -2.4384)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "439b2418-b7d9-4605-bbd0-e2dfc85ccc07")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.3048 -3.707 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "dd844731-b6fe-4bc3-b58f-917aa3a83690")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -5.4646 -0.322)
+		(size 1.5 4.25)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1640419948)
+		(uuid "95218523-4874-4d00-9614-7e7643cdc423")
+	)
+	(pad "2" smd roundrect
+		(at 5.305 -0.3134)
+		(size 1.5 4.25)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1640419948)
+		(uuid "1978442d-3a06-46c3-9ac8-79e19176781e")
+	)
+	(model "/home/gab/Documents/Kicad_Lib/ACAG1204-433-T.step"
+		(offset
+			(xyz 0 0.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
