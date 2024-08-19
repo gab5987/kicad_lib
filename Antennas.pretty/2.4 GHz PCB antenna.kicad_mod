@@ -1,0 +1,215 @@
+(footprint "2.4 GHz PCB antenna"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.22 -0.96 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "383f45d5-d9a0-47af-9ab7-8ef362f8daf3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "2.4 GHz PCB antenna"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6f915aec-7578-45b6-ac1f-b0a50a30cbcc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6db78d8d-365e-45a9-aaa6-b1d1a7831f63")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af9cbd09-1272-47c7-b738-eee36830c26c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4edb6103-da48-4fa8-be0f-ac44a6b12401")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -7.14 -5.5)
+		(end -2.14 -5)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "8237b20d-ab8f-41c2-affb-d02198057d82")
+	)
+	(fp_rect
+		(start -2.64 -5)
+		(end -2.14 -2.36)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "b684d01d-bb74-4cec-9782-d4472c9d20aa")
+	)
+	(fp_rect
+		(start -2.14 -2.86)
+		(end -0.14 -2.36)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "56f49585-028d-4f36-b205-e5b5d996d71f")
+	)
+	(fp_rect
+		(start -0.14 -5.5)
+		(end 2.56 -5)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "97ed7b36-22bd-4440-9c5b-f84cda97d0d6")
+	)
+	(fp_rect
+		(start -0.14 -5)
+		(end 0.36 -2.36)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "3ab9793b-7bee-47c1-b83e-19fbc4a2dcb5")
+	)
+	(fp_rect
+		(start 2.06 -5)
+		(end 2.56 -2.36)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "70068b33-564a-458c-9c9b-5bb26e46fa85")
+	)
+	(fp_rect
+		(start 2.56 -2.86)
+		(end 4.56 -2.36)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "a44f77fe-5a1a-48b0-b7d8-0d7ee26b5e08")
+	)
+	(fp_rect
+		(start 4.56 -5.5)
+		(end 7.26 -5)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "7895ba4b-e8b8-4f42-8b97-931c8c294c6a")
+	)
+	(fp_rect
+		(start 4.56 -5)
+		(end 5.06 -2.36)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "e8a66930-a533-41a6-8c82-d55f6511ff8e")
+	)
+	(fp_rect
+		(start 6.76 -5)
+		(end 7.26 -1.06)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "8c0c51e1-b998-487a-8314-845d5ac3a2a8")
+	)
+	(fp_rect
+		(start -7.61 -5.98)
+		(end 7.66 0.06)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "753ef5f7-2362-49c6-82fa-50af278676b2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "29131f9b-94d8-4c78-8d73-f3a0ac3d1cc3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -4.59 -2.55)
+		(size 0.5 4.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "cfedb29f-6022-47af-91fe-8cce81e9ee9e")
+	)
+	(pad "2" smd rect
+		(at -6.69 -2.55)
+		(size 0.9 4.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0cf712df-b8f9-496c-b56e-3a65da057f65")
+	)
+)

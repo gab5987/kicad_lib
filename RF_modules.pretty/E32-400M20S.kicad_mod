@@ -357,9 +357,9 @@
 			"c7bfefd1-59aa-42b4-ac50-c665c394f9db" "d5823b41-c63a-4e92-a24c-afa3caa1a4c6"
 		)
 	)
-	(model "/home/gab/Documents/Kicad_Lib/E32-400M20S.step"
+	(model "C:/Users/Gabriel/kicad_lib/E32-400M20S.step"
 		(offset
-			(xyz 20 28 -1.5)
+			(xyz 20.25 28 -1.5)
 		)
 		(scale
 			(xyz 1 1 1)
