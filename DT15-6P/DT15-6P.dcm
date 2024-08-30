@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DT15-6P
+D Body Features: Primary Product Color Gray | Configuration Features: Number of Signal Positions 6 | Number of Sections 1 | Number of Rows 2 | Number of Positions 6 | PCB Mount Orientation Vertical | Contact Features: Mating Pin Diameter 1.59 MM | Contact Mating Area Plating Material Nickel | Contact Size Size 16 | Contact Type Pin | Contact Current Rating (Max) 13 AMP | Mating Pin Diameter .063 INCH | Dimensions: Profile Height from PCB 35.26 MM | Profile Height from PCB 1.388 INCH | Connector Length 39.5 MM
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773962-8&DocType=Data%20Sheet&DocLang=English&PartCntxt=DT15-6P&DocFormat=pdf
+$ENDCMP
+#
+#End Doc Library
